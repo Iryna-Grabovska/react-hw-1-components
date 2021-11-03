@@ -1,0 +1,18 @@
+.transactionHistory {
+  border: 1;
+  border-color: black;
+}
+.tableTitle {
+  background-color: rgb(26, 75, 83);
+  color: white;
+  font-size: 24px;
+}
+.tableBord {
+  border-color: black;
+}
+.typeTable {
+  font-size: 18px;
+}
+.tr {
+  font-size: 18px;
+}

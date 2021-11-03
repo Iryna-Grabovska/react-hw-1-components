@@ -1,0 +1,40 @@
+ul {
+  list-style: none;
+}
+
+.item {
+  border-radius: 5px;
+  max-width: 200px;
+  margin-top: 20px;
+  border: 2px solid #88c3cf;
+  padding: 30px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.isOnline {
+  width: 5px;
+  height: 5px;
+  padding: 20px;
+}
+.friendOn {
+  border-radius: 50%;
+
+  width: 5px;
+  height: 5px;
+  padding: 10px;
+  background-color: green;
+}
+.friendOff {
+  border-radius: 50%;
+
+  width: 3px;
+  height: 3px;
+  padding: 10px;
+  background-color: red;
+}
+.friendName {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 1.17;
+}

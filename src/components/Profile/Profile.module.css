@@ -1,0 +1,40 @@
+.container {
+  text-align: center;
+
+  background-color: rgb(247, 245, 241);
+
+  max-width: 600px;
+}
+.avatar {
+  max-width: 320px;
+}
+.name {
+  font-size: 24px;
+  font-weight: 700;
+}
+.tag {
+  font-size: 20px;
+  font-weight: 500;
+}
+.location {
+  font-size: 20px;
+  font-weight: 500;
+}
+.statsList {
+  justify-content: center;
+  display: flex;
+  background-color: rgb(228, 247, 245);
+}
+.statsItem {
+  width: 110px;
+  padding: 10px;
+}
+.label {
+  display: block;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.quantity {
+  font-size: 22px;
+  font-weight: 500;
+}
